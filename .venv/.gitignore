@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+
+# Ignore PDF files
+*.pdf
+
+# Ignore JPG files
+*.jpg
